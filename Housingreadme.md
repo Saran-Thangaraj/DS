@@ -1,3 +1,4 @@
+Model:
 Linear Regression is the most straightforward algorithm in machine learning, it can be trained differently. In this notebook we will cover the following linear algorithms:<br>
 
 Linear Regression<br>
@@ -6,6 +7,7 @@ Ridge Regression<br>
 LASSO Regression<br>
 Elastic Net<br>
 
+Data:
 We are going to use the USA_Housing dataset. Since house price is a continuous variable, this is a regression problem. The data contains the following columns:
 
 'Avg. Area Income': Avg. The income of residents of the city house is located in.
